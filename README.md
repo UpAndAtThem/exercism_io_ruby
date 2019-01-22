@@ -1,1 +1,1 @@
-# ecercism_io_ruby
+# exercism_io_ruby
